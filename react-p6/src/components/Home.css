@@ -1,0 +1,23 @@
+
+
+.home{
+    width: 100%;
+    margin-top: 150px;
+    font-family: 'Arial';
+    padding-top: 10px;
+    margin-left: 150px;
+}
+.heading{
+    color: rgb(255, 0, 93);
+    font-size: 75px;
+}
+.content{
+    color: blueviolet;
+    font-size: 35px;
+}
+@media screen and (max-width:840px){
+    #home{
+        margin-left: 20px;
+    }
+}
+

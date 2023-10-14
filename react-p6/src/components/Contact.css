@@ -1,0 +1,102 @@
+.contact{
+    background-color: #ffd700;
+    height: 620px;
+}
+.a1{
+    margin-top: 130px;
+    font-family: "Arial";
+    font-size: 60px;
+    color: rgb(235, 10, 96);
+    margin-left: 150px;
+    padding-top: 70px;
+}
+.a2{
+    margin-left: -920px;
+    margin-top: 30px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a2 .a3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+    color: black;
+}
+.a4{
+    margin-left: -1020px;
+    margin-top: 30px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a4 .a5{
+    font-size: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+    color: black;
+}
+.icons{
+    color: #ff004f;
+    display: flex;
+    gap: 15px;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+input[type="text"]{
+    padding: 10px;
+    width: 650px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 25px;
+    margin-left: 650px;
+}
+input[type="email"]{
+    padding: 10px;
+    width: 650px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 25px;
+    margin-left: 650px;
+    margin-top: 30px;
+}
+textarea{
+    padding: 10px;
+    width: 650px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 25px;
+    margin-left: 650px;
+    margin-top: 30px;
+    font-family: "Arial";
+}
+.right{
+    margin-top: -260px;
+}
+.button{
+    display: block;
+    margin: 70px auto;
+    width: fit-content;
+    border: 1px solid #ff004f;
+    background-color: #ff004f;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    transition: background 0.5s;
+}
+.m1{
+    background-color: black;
+    height: 90px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

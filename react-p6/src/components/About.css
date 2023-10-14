@@ -1,0 +1,33 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 640px;
+    margin-top: 40px;
+    font-family: "Arial";
+}
+.pic{
+    border-radius: 15px;
+    margin-right: 50px;
+}
+.about_me{
+    margin-top: -20px;
+    margin-bottom: 30px;
+    color: rgb(255, 0, 60);
+    font-size: 75px;
+}
+.h3{
+    color: blueviolet;
+    font-size: 30px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.c1{
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+    margin-top: 10px;
+}
+

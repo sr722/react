@@ -1,0 +1,114 @@
+.portfolio{
+    background: #fff;
+    margin-top: 20px;
+    height: 525x;
+    position: relative;
+    padding-top: 90px;
+    font-family: 'Arial';
+}
+.p1{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    background-color: crimson;
+    width: 550px;
+    border-radius: 50px;
+    margin-left: 500px;
+}
+.cont1{
+    color: black;
+    display: flex;
+    transition: background 0.5s, transform 0.5s;
+}
+.p2{
+    background-color: #fff;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+    margin-left: 140px;
+    margin-top: 70px;
+}
+.p2:hover{
+    background: #ff004f;
+    transform: translateY(10px);
+    color: #fff;
+}
+.p3{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -40px;
+}
+.p8{
+    font-weight: 200;
+    text-align: center;
+    margin-top: 15px;
+}
+.p9{
+   font-size: 100px;
+   color: goldenrod;
+}
+.p4{
+    background-color: #fff;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.p4:hover{
+    background: #ff004f;
+    transform: translateY(10px);
+    color: #fff;
+}
+.p5{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -40px;
+}
+.p10{
+    font-weight: 200;
+    text-align: center;
+    margin-top: 15px;
+}
+.p6{
+    background-color: #fff;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.p6:hover{
+    background: #ff004f;
+    transform: translateY(10px);
+    color: #fff;
+}
+.p7{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -40px;
+}
+.p11{
+    font-weight: 200;
+    text-align: center;
+    margin-top: 15px;
+}
+.btn{
+    display: block;
+    margin: 35px auto;
+    width: fit-content;
+    border: 1px solid #ff004f;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    transition: background 0.5s;
+}
+.btn:hover{
+    background-color: #ff004f;
+}
